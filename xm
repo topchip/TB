@@ -14,7 +14,7 @@
 "spider":"clan://m/xm.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=Y2xhbjovL20vVFYvbGl2ZS50eHQ="
+"proxy://do=live&type=txt&ext=https://lghlcx.coding.net/p/m/d/1/git/raw/master/live.txt"
 ]}]}],
 
 

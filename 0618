@@ -26,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://m/X/huya.js"
+      "ext": "https://topchip.github.io/TB/X/huya.js"
     },
     {
       "key": "csp_xpath_网络搜集库qiumi",
@@ -36,7 +36,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://m/X/516-qiumi.js"
+      "ext": "https://topchip.github.io/TB/X/516-qiumi.js"
     },
     {
       "key": "csp_xpath_A33",
@@ -46,7 +46,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://m/X/mtv"
+      "ext": "https://topchip.github.io/TB/X/mtv"
     },
     {
       "key": "csp_CZSPP",
@@ -92,7 +92,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/b02-lgys.js"
+      "ext": "https://topchip.github.io/TB/X/b02-lgys.js"
     },
     {
       "key": "csp_GitCafe",
@@ -139,7 +139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/519-gongreng.json"
+      "ext": "https://topchip.github.io/TB/X/519-gongreng.json"
     },
     {
       "key": "csp_xpath_网络搜集源03",
@@ -149,7 +149,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/zxzj.js"
+      "ext": "https://topchip.github.io/TB/X/zxzj.js"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -159,7 +159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/a00-lgyy.js"
+      "ext": "https://topchip.github.io/TB/X/a00-lgyy.js"
     },
     {
       "key": "csp_biubiu_厂长资源-蓝光",
@@ -169,7 +169,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/a01-czzy.js"
+      "ext": "https://topchip.github.io/TB/X/a01-czzy.js"
     },
     {
       "key": "csp_XBiubiubiubiu_libvio",
@@ -179,7 +179,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/b14-libvio.js"
+      "ext": "https://topchip.github.io/TB/X/b14-libvio.js"
     },
     {
       "key": "csp_XBiubiubiubiu_cokemv",
@@ -189,7 +189,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/b00-coke.js"
+      "ext": "https://topchip.github.io/TB/X/b00-coke.js"
     },
     {
       "key": "csp_XBiubiubiubiu_lezhu",
@@ -199,7 +199,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/b13-lezhu.js"
+      "ext": "https://topchip.github.io/TB/X/b13-lezhu.js"
     },
     {
       "key": "csp_XBiubiubiubiu_555",
@@ -209,7 +209,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/b01-555dy.js"
+      "ext": "https://topchip.github.io/TB/X/b01-555dy.js"
     },
     {
       "key": "csp_XBiubiubiubiu_ysgc",
@@ -219,7 +219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/b03-ysgc.js"
+      "ext": "https://topchip.github.io/TB/X/b03-ysgc.js"
     },
     {
       "key": "csp_XBiubiubiubiu_city",
@@ -229,7 +229,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/city.js"
+      "ext": "https://topchip.github.io/TB/X/city.js"
     },
     {
       "key": "csp_XBiubiubiubiu_手机看剧",
@@ -239,7 +239,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/b06-sjkj.js"
+      "ext": "https://topchip.github.io/TB/X/b06-sjkj.js"
     },
     {
       "key": "csp_XBiubiubiubiu_口袋影院",
@@ -249,7 +249,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/b07-kdys.js"
+      "ext": "https://topchip.github.io/TB/X/b07-kdys.js"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -259,7 +259,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/a10-tgys.js"
+      "ext": "https://topchip.github.io/TB/X/a10-tgys.js"
     },
     {
       "key": "csp_biubiu_瓜皮TV",
@@ -269,7 +269,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/a11-gptv.js"
+      "ext": "https://topchip.github.io/TB/X/a11-gptv.js"
     },
     {
       "key": "csp_biubiu_真的卡影院",
@@ -279,7 +279,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/a12-zk.js"
+      "ext": "https://topchip.github.io/TB/X/a12-zk.js"
     },
     {
       "key": "csp_biubiu_大米星球",
@@ -289,7 +289,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/a13-dmxq.js"
+      "ext": "https://topchip.github.io/TB/X/a13-dmxq.js"
     },
     {
       "key": "csp_biubiu_晗剧",
@@ -299,7 +299,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/a14-hanju.js"
+      "ext": "https://topchip.github.io/TB/X/a14-hanju.js"
     },
     {
       "key": "csp_biubiu_看片狂人",
@@ -309,7 +309,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/a15-kpkr.js"
+      "ext": "https://topchip.github.io/TB/X/a15-kpkr.js"
     },
     {
       "key": "csp_XBiubiubiubiu_4kan电影网",
@@ -319,7 +319,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/b11-4Kkan.js"
+      "ext": "https://topchip.github.io/TB/X/b11-4Kkan.js"
     },
     {
       "key": "csp_XPath_猫群首发",
@@ -329,7 +329,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/519-bidi.json"
+      "ext": "https://topchip.github.io/TB/X/519-bidi.json"
     },
     {
       "key": "csp_xpath_网络搜集库29",
@@ -339,7 +339,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/519-dadagui.json"
+      "ext": "https://topchip.github.io/TB/X/519-dadagui.json"
     },
     {
       "key": "csp_XPathMacFilter_网络搜集源02",
@@ -349,7 +349,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/jp"
+      "ext": "https://topchip.github.io/TB/X/jp"
     },
     {
       "key": "csp_xpath_网络搜集库naikan",
@@ -359,7 +359,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/516-naikan.js"
+      "ext": "https://topchip.github.io/TB/X/516-naikan.js"
     },
     {
       "key": "csp_appysv2_爱酷影视",
@@ -379,7 +379,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/604-huohuo.js"
+      "ext": "https://topchip.github.io/TB/X/604-huohuo.js"
     },
     {
       "key": "csp_xpath_网络搜集库kankan",
@@ -389,7 +389,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/516-wmkankan.js"
+      "ext": "https://topchip.github.io/TB/X/516-wmkankan.js"
     },
     {
       "key": "csp_AppYsV2_美剧范",
@@ -409,7 +409,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/505-heidong.js"
+      "ext": "https://topchip.github.io/TB/X/505-heidong.js"
     },
     {
       "key": "csp_xpath_网络搜集源A13",
@@ -419,7 +419,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/6dutv.js"
+      "ext": "https://topchip.github.io/TB/X/6dutv.js"
     },
     {
       "key": "csp_xpath_网络搜集库108",
@@ -429,7 +429,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/519-xiaoxiong.json"
+      "ext": "https://topchip.github.io/TB/X/519-xiaoxiong.json"
     },
     {
       "key": "csp_xpath_网络搜集库62",
@@ -439,7 +439,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/519-dili.json"
+      "ext": "https://topchip.github.io/TB/X/519-dili.json"
     },
     {
       "key": "csp_xpath_网络搜集库80",
@@ -449,7 +449,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/519-tuzi.json"
+      "ext": "https://topchip.github.io/TB/X/519-tuzi.json"
     },
     {
       "key": "csp_xpath_网络搜集库03",
@@ -459,7 +459,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/519-yingba.json"
+      "ext": "https://topchip.github.io/TB/X/519-yingba.json"
     },
     {
       "key": "csp_xpath_网络搜集库72",
@@ -469,7 +469,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://m/X/519-dingzidy.json"
+      "ext": "https://topchip.github.io/TB/X/519-dingzidy.json"
     },
     {
       "key": "csp_xpath_网络搜集源21",
@@ -479,7 +479,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/605-yhdm.js"
+      "ext": "https://topchip.github.io/TB/X/605-yhdm.js"
     },
     {
       "key": "csp_xpath_A32",
@@ -489,7 +489,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/604-dmd.js"
+      "ext": "https://topchip.github.io/TB/X/604-dmd.js"
     },
     {
       "key": "csp_xpath_网络搜集源22",
@@ -499,7 +499,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/604-dm84.js"
+      "ext": "https://topchip.github.io/TB/X/604-dm84.js"
     },
     {
       "key": "csp_xpath_网络搜集源23",
@@ -509,7 +509,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/604-age.js"
+      "ext": "https://topchip.github.io/TB/X/604-age.js"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -519,7 +519,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/d05-fcdm.js"
+      "ext": "https://topchip.github.io/TB/X/d05-fcdm.js"
     },
     {
       "key": "csp_biubiu_森屋新番",
@@ -529,7 +529,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/d02-swxf.js"
+      "ext": "https://topchip.github.io/TB/X/d02-swxf.js"
     },
     {
       "key": "csp_biubiu_维奇动漫",
@@ -539,7 +539,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://m/X/d03-wqdm.js"
+      "ext": "https://topchip.github.io/TB/X/d03-wqdm.js"
     },
     {
       "key": "push_Blixs",
@@ -569,7 +569,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://lghlcx.coding.net/p/m/d/1/git/raw/master/live.txt"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uc3RhdGljYWx5LmNvbS9naC90dmJ3L215dHYvbWFpbi90djg4"
           ]
         }
       ]
@@ -1011,5 +1011,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080",
-  "spider": "clan://m/0618.jar;md5;f94998bac4caa291b4d15439f7e4346b"
+  "spider": "https://topchip.github.io/TB/0618.jar;md5;f94998bac4caa291b4d15439f7e4346b"
 }

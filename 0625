@@ -549,6 +549,366 @@
       "filterable": 0,
       "ext": "https://topchip.github.io/TB/X/604-age.js"
     },
+  {
+      "key": "csp_xpath_qiyou",
+      "name": "奇优电影(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/qiyou.json"
+    },
+    {
+      "key": "csp_xpath_kuqi",
+      "name": "酷奇MV(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/kuqimv.json"
+    },    
+    {
+      "key":"csp_xpath_qcys",
+      "name":"奇粹影视(XP)",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://topchip.github.io/TB/MeowXP/ikuwoo.json"
+    },
+    {
+      "key": "csp_xpath_unss",
+      "name": "九洲影视(XPMF)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/%E4%B9%9D%E5%B7%9E.json"
+    },
+     {
+      "key": "csp_xpath_chen",
+      "name": "尘落(优XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/chenluo.json"
+    },
+    {
+      "key":"csp_xpath_hmtv",
+      "name":"花猫TV(XP)",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":1,
+      "ext": "https://topchip.github.io/TB/MeowXP/huamao.json"
+    },
+    {
+      "key": "csp_xpath_saohuo",
+      "name": "骚火(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://topchip.github.io/TB/MeowXP/%E9%AA%9A%E7%81%AB.json"
+    },
+    {
+      "key": "csp_xpath_ddg",
+      "name": "达达龟(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/dadagui.json"
+    },
+    {
+      "key":"csp_xpath_subb",
+      "name":"素白白TV(XP)",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":1,
+      "ext": "https://topchip.github.io/TB/MeowXP/subaibai.json"
+    },
+    {
+      "key": "csp_xpath_vipdy",
+      "name": "VIP电影(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/vip1280.json"
+    },
+    {
+      "key":"csp_xpath_juhu",
+      "name":"剧荒(XP)",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://topchip.github.io/TB/MeowXP/juhuang.json"
+    },
+    {
+      "key": "csp_xpath_huah",
+      "name": "花和电影(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/huahe.json"
+    },
+    {
+      "key": "csp_xpath_dsx",
+      "name": "大师兄XP",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/dsxys.json"
+    },
+    {
+      "key":"csp_xpath_mboy",
+      "name":"MBO影视(XP)",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://topchip.github.io/TB/MeowXP/mbomovice.json"
+     },
+    {
+      "key": "csp_xpath_zjdr",
+      "name": "追剧达人(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/vipmv.json"
+    },
+    {
+      "key":"csp_xpath_dxdx",
+      "name":"滴嘻滴嘻(XP)",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://topchip.github.io/TB/MeowXP/dixidixi.json"
+    },
+    {
+      "key": "csp_xpath_zx",
+      "name": "在线之家(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
+    },
+    {
+      "key": "csp_xpath_zmdy",
+      "name": "周末电影(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/zzzlike.json"
+     },
+    {
+      "key":"csp_xpath_lmys",
+      "name":"来米影视(XP)",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://topchip.github.io/TB/MeowXP/qdytv.json"
+    },
+    {
+      "key": "csp_xpath_1080p",
+      "name": "1080电影(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/1080.json"
+    },
+   {
+      "key": "2345_spider",
+      "name": "2345影院(官源)",
+      "type": 3,
+      "api": "csp_YS2345",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078626/0"
+    },
+    {
+      "key": "sogou_spider",
+      "name": "搜狗影院(官源)",
+      "type": 3,
+      "api": "csp_YSSogou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078651/0"
+    },
+    {
+      "key": "360_spider",
+      "name": "360影院(官源)",
+      "type": 3,
+      "api": "csp_YS360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0"
+    },
+    {
+      "key": "csp_xpath_miao",
+      "name": "喵喵(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/miaomiao.json"
+    },
+    {
+      "key": "csp_xpath_dym8",
+      "name": "电影迷8(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/dianyingmi8.json"
+    },
+    {
+      "key": "csp_xpath_xqm",
+      "name": "小强迷(优XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/MeowXP/xiaoqiang.json"
+    },
+    {
+      "key": "csp_xpath_tvby",
+      "name": "TVB云播(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/MeowXP/tvb.json"
+    },
+    {
+      "key": "csp_xpath_jubb",
+      "name": "剧白白(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/jubaibai.json"
+    },
+    {
+      "key": "csp_xpath_ddt",
+      "name": "达达兔(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/%E8%BE%BE%E8%BE%BE%E5%85%94.json"
+    },
+{
+      "key": "csp_xpath_9egy",
+      "name": "9E国语(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/%E4%B9%9D%E4%BA%BF%E5%9B%BD%E8%AF%AD.json"
+    },
+    {
+      "key": "csp_xpath_348",
+      "name": "348电影(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/348z.json"
+    },
+    {
+      "key": "csp_xpath_zj",
+      "name": "追剧网(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/%E8%BF%BD%E5%89%A7%E7%BD%91.json"
+    },
+    {
+      "key": "csp_xpath_pianba",
+      "name": "片吧(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/%E7%89%87%E5%90%A7.json"
+    },
+    {
+      "key":"csp_xpath_wnys",
+      "name":"万能影视(XP)",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":1,
+      "ext": "https://topchip.github.io/TB/MeowXP/wnvod.json"
+    },
+   {
+      "key": "csp_xpath_lranc",
+      "name": "天天影视(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/lranc.json"
+    },
+    {
+      "key": "csp_xpath_pianku",
+      "name": "片库(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/%E7%89%87%E5%BA%93.json"
+    },
     {
       "key": "csp_biubiu_风车动漫",
       "name": "风车",

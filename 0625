@@ -27,7 +27,7 @@
        "quickSearch":1,
        "searchable":1,
        "filterable":1
-     },   
+     },
     {
       "key": "csp_77",
       "name": "pglblb",
@@ -45,6 +45,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+     {
+      "key": "csp_xpath_netf",
+      "name": "网飞(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://topchip.github.io/TB/MeowXP/netflix.json"
     },
     {
       "key": "csp_xpath_网络搜集库huaya",

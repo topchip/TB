@@ -11,7 +11,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://topchip.github.io/TB/t3.jar",
+"spider":"https://topchip.github.io/TB/t3.jar;md5;5CA684BC4005644FEA4B068EDE66E725",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=https://tangsan99999.github.io/l/live.bmp"

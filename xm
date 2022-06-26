@@ -11,7 +11,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://topchip.github.io/TB/xm.jar",
+"spider":"https://topchip.github.io/TB/xm.jar;md5;C5C0FABCD4F0D1E464B5D760361F499E",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=https://lghlcx.coding.net/p/m/d/1/git/raw/master/live.txt"

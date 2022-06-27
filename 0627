@@ -32,7 +32,7 @@
        "key":"spider_Mjxq",
        "name":"美剧星球",
        "type":3,
-       "api":"spider_Mjxq",
+       "api":"csp_Mjxq",
        "quickSearch":1,
        "searchable":1,
        "filterable":1

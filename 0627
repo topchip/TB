@@ -29,8 +29,8 @@
        "filterable":1
      },
     {
-       "key":"spider_Mjxq",
-       "name":"美剧星球",
+       "key":"mjxq_spider",
+       "name":"美剧星球(SP)",
        "type":3,
        "api":"csp_Mjxq",
        "quickSearch":1,

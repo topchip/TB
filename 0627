@@ -10,6 +10,15 @@
       "filterable":1
     },
     {
+      "key":"csp_BBB",
+      "name":"bilibili(SP)",
+      "type":3,
+      "api":"csp_BBB",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":1
+    },
+    {
       "key":"csp_n0ys",
       "name":"💥1090影视(SP)",
       "type":3,
@@ -37,6 +46,15 @@
        "searchable":1,
        "filterable":1
      },
+    {
+      "key": "csp_Kmys",
+      "name":"酷猫影视",
+      "type": 3,
+      "api": "csp_Kmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_77",
       "name": "pglblb",

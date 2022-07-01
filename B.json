@@ -1,7 +1,7 @@
 // 配置地址 --> clan://localhost/TVBox/bc.json
 
 {
-"spider":"https://topchip.github.io/TB/0630.jar;md5;6BD87CA4E6FE81C686034241FEE90052",
+"spider":"https://topchip.github.io/TB/B.jar;md5;6BD87CA4E6FE81C686034241FEE90052",
   "lives": [
     {
       "group": "redirect",

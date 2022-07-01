@@ -43,7 +43,6 @@
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://topchip.github.io/TB/MeowXP/kuqimv.json"},
 
 {"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://topchip.github.io/TB/MeowXP/厂长资源-蓝光.json"},
-{"key":"csp_biubiu_蓝莓影视","name":"蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://topchip.github.io/TB/MeowXP/lmys.json"},
 {
       "key": "___xmf哔",
       "name": "哔嘀",

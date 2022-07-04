@@ -14,8 +14,7 @@
 "spider":"https://topchip.github.io/TB/t3.jar;md5;449AA602DCE7E45AF933E7AFC05A07EA",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=https://tangsan99999.github.io/l/live.bmp"
-//aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="
 ]}]}],
 
 

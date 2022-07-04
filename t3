@@ -11,32 +11,40 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://topchip.github.io/TB/t3.jar;md5;0786038F127A1764DDC9E9DABE44FA07",
+"spider":"https://topchip.github.io/TB/t3.jar;md5;449AA602DCE7E45AF933E7AFC05A07EA",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=https://tangsan99999.github.io/l/live.bmp"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="
+//https://tangsan99999.github.io/l/live.bmp"
 ]}]}],
 
 
 "sites":[
   {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"Ikan","name":"Ikan","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"小宝影院","name":"小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"If101","name":"If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"低端影视","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
-   {"key":"厂长影视","name":"厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"厂长影视","name":"厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"Lib","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"Mayi","name":"麻衣高清","type":3,"api":"csp_Mayi","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"Nfyun","name":"Nf云","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"9E03","name":"9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
-  {"key":"在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"csp_biubiu_555电影","name":"5️⃣555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://topchip.github.io/TB/MaooXB/555dy.json"},
+  {"key":"csp_xpath_jbb","name":"🎁剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://topchip.github.io/TB/MaooXP/jubaibai.json"},
+  {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1},
-
+  {"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://youmostfear.coding.net/p/Fan/d/a/git/raw/main/tester.json"},
+  {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI0ZWIxZWFhYjRiYWQ0MjQ2YTIzNTdhNTM3NGUwN2VmMCIsImN1c3RvbUpzb24iOiJ7XCJjbGllbnRJZFwiOlwiMjVkelgzdmJZcWt0Vnh5WFwiLFwiZG9tYWluSWRcIjpcImJqMjlcIixcInNjb3BlXCI6W1wiRFJJVkUuQUxMXCIsXCJTSEFSRS5BTExcIixcIkZJTEUuQUxMXCIsXCJVU0VSLkFMTFwiLFwiVklFVy5BTExcIixcIlNUT1JBR0UuQUxMXCIsXCJTVE9SQUdFRklMRS5MSVNUXCIsXCJCQVRDSFwiLFwiT0FVVEguQUxMXCIsXCJJTUFHRS5BTExcIixcIklOVklURS5BTExcIixcIkFDQ09VTlQuQUxMXCIsXCJTWU5DTUFQUElORy5MSVNUXCIsXCJTWU5DTUFQUElORy5ERUxFVEVcIl0sXCJyb2xlXCI6XCJ1c2VyXCIsXCJyZWZcIjpcImh0dHBzOi8vd3d3LmFsaXl1bmRyaXZlLmNvbS9cIixcImRldmljZV9pZFwiOlwiNDM4NTBiZWFmOThmNGU4YThlMjhlM2Y0NDYyNjk5ZmRcIn0iLCJleHAiOjE2NTY5MTE0MjYsImlhdCI6MTY1NjkwNDE2Nn0.k_keLfIVW-UljYpGEfmN931qGRULmPjAifoPtEmWkMvfXwfsIQXnXAEVm7lKuKqsuXHLoql6GL0tCvnmtdoOAFXKHtU7WuQnK5fzJYro0xlPFZXBwhiBzIQtrMSx17l0cK-nfSG1X8iDbtOo_n-KAsT8Gy0bLFQDWfOD3bbbLVs"},
+  {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI0ZWIxZWFhYjRiYWQ0MjQ2YTIzNTdhNTM3NGUwN2VmMCIsImN1c3RvbUpzb24iOiJ7XCJjbGllbnRJZFwiOlwiMjVkelgzdmJZcWt0Vnh5WFwiLFwiZG9tYWluSWRcIjpcImJqMjlcIixcInNjb3BlXCI6W1wiRFJJVkUuQUxMXCIsXCJTSEFSRS5BTExcIixcIkZJTEUuQUxMXCIsXCJVU0VSLkFMTFwiLFwiVklFVy5BTExcIixcIlNUT1JBR0UuQUxMXCIsXCJTVE9SQUdFRklMRS5MSVNUXCIsXCJCQVRDSFwiLFwiT0FVVEguQUxMXCIsXCJJTUFHRS5BTExcIixcIklOVklURS5BTExcIixcIkFDQ09VTlQuQUxMXCIsXCJTWU5DTUFQUElORy5MSVNUXCIsXCJTWU5DTUFQUElORy5ERUxFVEVcIl0sXCJyb2xlXCI6XCJ1c2VyXCIsXCJyZWZcIjpcImh0dHBzOi8vd3d3LmFsaXl1bmRyaXZlLmNvbS9cIixcImRldmljZV9pZFwiOlwiNDM4NTBiZWFmOThmNGU4YThlMjhlM2Y0NDYyNjk5ZmRcIn0iLCJleHAiOjE2NTY5MTE0MjYsImlhdCI6MTY1NjkwNDE2Nn0.k_keLfIVW-UljYpGEfmN931qGRULmPjAifoPtEmWkMvfXwfsIQXnXAEVm7lKuKqsuXHLoql6GL0tCvnmtdoOAFXKHtU7WuQnK5fzJYro0xlPFZXBwhiBzIQtrMSx17l0cK-nfSG1X8iDbtOo_n-KAsT8Gy0bLFQDWfOD3bbbLVs"},
+  {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI0ZWIxZWFhYjRiYWQ0MjQ2YTIzNTdhNTM3NGUwN2VmMCIsImN1c3RvbUpzb24iOiJ7XCJjbGllbnRJZFwiOlwiMjVkelgzdmJZcWt0Vnh5WFwiLFwiZG9tYWluSWRcIjpcImJqMjlcIixcInNjb3BlXCI6W1wiRFJJVkUuQUxMXCIsXCJTSEFSRS5BTExcIixcIkZJTEUuQUxMXCIsXCJVU0VSLkFMTFwiLFwiVklFVy5BTExcIixcIlNUT1JBR0UuQUxMXCIsXCJTVE9SQUdFRklMRS5MSVNUXCIsXCJCQVRDSFwiLFwiT0FVVEguQUxMXCIsXCJJTUFHRS5BTExcIixcIklOVklURS5BTExcIixcIkFDQ09VTlQuQUxMXCIsXCJTWU5DTUFQUElORy5MSVNUXCIsXCJTWU5DTUFQUElORy5ERUxFVEVcIl0sXCJyb2xlXCI6XCJ1c2VyXCIsXCJyZWZcIjpcImh0dHBzOi8vd3d3LmFsaXl1bmRyaXZlLmNvbS9cIixcImRldmljZV9pZFwiOlwiNDM4NTBiZWFmOThmNGU4YThlMjhlM2Y0NDYyNjk5ZmRcIn0iLCJleHAiOjE2NTY5MTE0MjYsImlhdCI6MTY1NjkwNDE2Nn0.k_keLfIVW-UljYpGEfmN931qGRULmPjAifoPtEmWkMvfXwfsIQXnXAEVm7lKuKqsuXHLoql6GL0tCvnmtdoOAFXKHtU7WuQnK5fzJYro0xlPFZXBwhiBzIQtrMSx17l0cK-nfSG1X8iDbtOo_n-KAsT8Gy0bLFQDWfOD3bbbLVs"
+  },
 {"key":"七七","name":"👒七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"奈落影院","name":"🐼奈落影院","type":3,"api":"csp_Newfii","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Libvio","name":"🐼Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_ysgc","name":"🥒影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://topchip.github.io/TB/MeowXB/ysgc.bmp"},
 {"key":"csp_biubiu_555","name":"🥒555影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://topchip.github.io/TB/MeowXB/555.bmp"},
 {"key":"csp_biubiu_lezhu","name":"🥒乐猪(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://topchip.github.io/TB/MeowXB/lezhutv.bmp"},

@@ -1,9 +1,10 @@
 {
 // spider
-"spider":"https://topchip.github.io/TB/qj.jar;md5;B91043208CE8118AD331D47DA3B61FEC",
+"spider":"https://topchip.github.io/TB/qj.jar;md5;36252C63517C0808BBE3DAE99C4DDE54",
 
 // 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://topchip.github.io/TB/tv/zb.txt"]}]}],
+//aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA==
 
 "sites":[
     {"key":"小苹果","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},

@@ -1,4 +1,4 @@
-{
+﻿{
   "ua": "",
   "homeUrl": "https://www.pianku.la",
   "cateNode": "//ul[contains(@class,'myui-header__menu nav-menu')]/li[contains(@class, 'dropdown-hover')]//div/ul/li/a[contains(@href, 'list') and not(contains(@href,'label'))]",

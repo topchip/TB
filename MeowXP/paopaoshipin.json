@@ -1,4 +1,4 @@
-{
+﻿{
   "ua": "",
   "homeUrl": "https://www.paopaoshipin.com",
   "cateNode": "//div[contains(@class,'nav flex')]/a[contains(@href, 't')]",
